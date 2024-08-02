@@ -1,0 +1,13 @@
+.square {
+  border-radius: 0px;
+}
+
+.jumbotron {
+  background-image: linear-gradient(to right, #007bff, #000);
+  color: #fff;
+}
+
+.custom-img {
+  max-height: 300px; /* Adjust the height as needed */
+  width: auto;
+}

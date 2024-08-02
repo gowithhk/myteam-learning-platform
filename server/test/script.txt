@@ -1,0 +1,1 @@
+newman run test/myteam-learning-portal.postman_collection.json
